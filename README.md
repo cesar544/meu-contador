@@ -1,2 +1,1 @@
 ﻿#meu-contador
-#coloquei sistema de ranking
